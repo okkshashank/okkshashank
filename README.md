@@ -1,92 +1,83 @@
-<!-- 👋 Animated wave / greeting -->
+<!-- Animated header / hero -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="wave" />
-  <strong>Hi, I’m Shashank</strong> 👋  
-  <br>
-  Data Enthusiast | Full-Stack Developer | ML & Analytics Explorer  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="wave" />
+  <span style="font-size: 2.2em; font-weight: bold;">Hi, I’m Shashank</span> 👋  
+  <br />
+  <em style="font-size:1.2em;">Data Enthusiast • Salesforce Admin & Developer • ML Explorer</em>  
+  <br />
+  <img src="https://your-cdn.com/animated-underline.gif" width="200" alt="animated underline" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a developer passionate about turning data into insight, and ideas into products.  
-I love combining **data**, **visualization**, and **code** to build meaningful solutions.
+I love converting data into insight and ideas into impact.  
+I build tools, dashboards, and systems that tell stories and solve real problems.
 
-- 🔭 Currently working on **[Your Project / Domain]**  
-- 🌱 Always learning about **Deep Learning**, **Streaming Analytics**, **Real-time Systems**  
-- 👯 Looking to collaborate on open source / health-tech / data-driven projects  
-- 💬 Ask me about Python, ML, JavaScript, Data Engineering  
-- 📫 How to reach me: your.email@example.com  
-- ⚡ Fun fact: I listen to music while coding and sometimes code with a coffee in hand  
-
----
-
-## 🛠 Tech Stack
-
-| Area | Tools & Technologies |
-|------|----------------------|
-| **Languages** | Python, JavaScript, SQL, R |
-| **Backend / APIs** | Flask, FastAPI, Node.js, Express |
-| **Frontend / UI** | React, Vue, D3.js |
-| **Data / ML** | NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **DevOps / Tools** | Docker, CI/CD (GitHub Actions), Git, AWS / GCP basics |
-
+- 🔭 Currently working on **[Your Major Project / Domain]**  
+- 🌱 Learning more about **Salesforce custom development**, **real-time pipelines**, and **transformer models**  
+- 👯 Open to collaborations in data, health-tech, Salesforce, or open source  
+- 💬 Ask me about Python, Salesforce, JS, APIs  
+- 📫 Reach me: your.email@example.com  
+- ⚡ Fun fact: I code with ambient music and random snack breaks  
 
 ---
 
-## 🎯 Featured Projects
+## 🛠 Skills & Tools
 
-Here are a few of my standout projects:
+| Domain | Tools / Technologies |
+|--------|------------------------|
+| **Languages / Scripting** | Apex, Python, JavaScript, SQL |
+| **Salesforce / Platform** | Salesforce Admin, Salesforce Lightning, Apex, SOQL, Flows, Triggers |
+| **Backend / APIs** | Node.js, Express, Flask |
+| **Frontend / UI** | LWC (Lightning Web Components), React, Vue, D3.js |
+| **Data / ML** | Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow |
+| **Databases & Storage** | PostgreSQL, MongoDB, Redis |
+| **DevOps / Tools** | Docker, GitHub Actions, AWS / GCP basics |
+
+You can optionally create little progress bars or icon animations beside each skill for visual flair.
+
+---
+
+## 🌟 Featured Projects
+
+Here are a few projects I’m proud of:
 
 | Project | Description | Tech / Highlights |
 |--------|-------------|-------------------|
-| **Project A** | A brief one-line description of what it does | Python, Flask, ML, etc. |
-| **Project B** | Describe the problem + solution | React, D3, APIs |
-| **Project C** | Something you are proud of | Data engineering, dashboards |
-| **Project D** | etc. | whatever stack |
+| **Project A** | What problem it solves | Salesforce, Apex, Lightning |
+| **Project B** | UI + APIs | LWC, Express, JS |
+| **Project C** | Data pipelines / analytics | ETL, dashboards, Python |
+| **Project D** | Interactive visual tool | JS, Canvas / SVG, data viz |
 
-Feel free to include a screenshot or animated GIF of the project to give a visual impression.
+You can embed screenshots or even animated GIF demos to show interactivity.
 
 ---
 
-## 📊 GitHub Stats
+## 📚 What I’m Exploring
 
-<!-- GitHub Stats Cards / Widgets -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=okkshashank&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkshashank&layout=compact&theme=radical)  
+- Advanced Salesforce automation & integrations  
+- Real-time stream processing (Kafka, Spark Streaming)  
+- Transformer & attention models  
+- Graph neural networks  
+- More data visualization / interaction  
+- UX / micro animations in dashboards  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)  
-[![Website](https://img.shields.io/badge/Website-Visit-Me-!-?style=for-the-badge&logo=github&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn–blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter–sky?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)  
+[![Website](https://img.shields.io/badge/Website–Visit-Me-!-?style=for-the-badge&logo=github&logoColor=white)](https://your-website.com)
 
 ---
 
-## 📚 What I’m Learning / Exploring Next
+## 🎉 Beyond Code
 
-- Transformer architectures (attention models)  
-- Real-time data pipelines (Kafka, Spark Streaming)  
-- Graph Neural Networks  
-- More UI / data viz experiments  
+- I enjoy photography, music, and exploring new places  
+- Motto: *“Write code future you will thank you for.”*  
+- Always up for a coffee + code chat ☕  
 
----
-
-## 🎉 A Little More About Me
-
-- I enjoy photography, music, and short hikes  
-- I’m always up for coffee + code chats ☕  
-- My motto: *“Write code today that future you will thank you for.”*  
-
----
-
-> “Simplicity is the ultimate sophistication.” — Leonardo da Vinci  
-
----
-
-Thanks for visiting my profile!  
-Let’s build something great together 🚀  
+Thank you for visiting — hope we can create something awesome together! 🚀  
