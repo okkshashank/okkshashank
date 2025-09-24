@@ -15,11 +15,11 @@
 I love converting data into insight and ideas into impact.  
 I build tools, dashboards, and systems that tell stories and solve real problems.
 
-- 🔭 Currently working on **[Your Major Project / Domain]**  
+- 🔭 Currently working as **[Data Analyst / Healthcare]**  
 - 🌱 Learning more about **Salesforce custom development**, **real-time pipelines**, and **transformer models**  
 - 👯 Open to collaborations in data, health-tech, Salesforce, or open source  
 - 💬 Ask me about Python, Salesforce, JS, APIs  
-- 📫 Reach me: your.email@example.com  
+- 📫 Reach me: shashankswat11@gmail.com  
 - ⚡ Fun fact: I code with ambient music and random snack breaks  
 
 ---
